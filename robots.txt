@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://etewsorto.github.io/sitemap.html.gz
+Sitemap: https://etewsorto.github.io/app/sitemap.html.gz
+Sitemap: https://etewsorto.github.io/assets/sitemap.html.gz
+Sitemap: https://etewsorto.github.io/css/sitemap.html.gz
+Sitemap: https://etewsorto.github.io/includes/sitemap.html.gz
+Sitemap: https://etewsorto.github.io/item/sitemap.html.gz
+Sitemap: https://etewsorto.github.io/src/sitemap.html.gz
